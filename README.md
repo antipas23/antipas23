@@ -1,4 +1,4 @@
-![Black](https://user-images.githubusercontent.com/81953340/226605677-a8e51a07-9dae-4ecc-8bf4-fa361d170191.gif)
+![Black](https://github.com/antipas23/antipas23/blob/4acd38bd0fb53e4dbd3a9e0add153a6669050dab/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Antipas Getu Belihu</h1>
 <h3 align="center">A passionate full stack Software developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
